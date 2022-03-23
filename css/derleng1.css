@@ -1,0 +1,19 @@
+
+.title{
+    font-family:'Battambang', cursive;
+    font-size:28px;
+    margin-top:15px;
+}
+.l-title{
+    font-family:'Battambang', cursive;
+    font-size:18px;
+    line-height: 30px;
+    margin-top:5px;
+}
+
+/*iPad*/
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+   }
+   .image img{
+    width:100%;
+}

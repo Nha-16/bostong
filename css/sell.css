@@ -1,0 +1,10 @@
+.s-title{
+    font-size: 22px;
+}
+.btn-warning{
+    background-color: white;
+    border: none;
+}
+.btn-warning:hover{
+    background-color: white;
+}
